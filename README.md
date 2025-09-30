@@ -224,9 +224,10 @@ ARASAKA는 해외여행 시 도난범죄의 타겟이 되는 것을 방지하기
 ## 📦 설치 및 사용 방법
 
 ### 1. 저장소 클론
-```bash
-git clone https://github.com/team-arasaka/iot-security-monitor.git
-cd iot-security-monitor
+
+```
+git clone https://github.com/wjin08/TEAM_ARASAKA.git
+cd TEAM_ARASAKA
 ```
 
 ### 2. API 키 설정
@@ -294,7 +295,7 @@ Arduino IDE에서 ESP32 보드 설치 후 펌웨어 업로드
 
 ### Base URL
 ```
-https://your-app.netlify.app/.netlify/functions/updateData
+https://arasakakr.netlify.app/
 ```
 
 ### GET /updateData
